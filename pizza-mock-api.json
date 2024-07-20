@@ -53,7 +53,7 @@
       "assets": {
         "menu": [
           {
-            "url": "https://littlefrenchhouse.in/restaurant/wp-content/uploads/2021/01/Truffle-Chilli-Pizza-1.png"
+            "url": "https://png.pngtree.com/png-clipart/20230928/original/pngtree-pizza-with-mozzarella-cheese-tomato-kiwi-and-olives-ai-generated-png-image_13164699.png"
           }
         ],
         "product_details_page": [
@@ -212,6 +212,27 @@
     },
     {
       "id": 20,
+      "name": "Vegan Pepperoni",
+      "price": "23.95",
+      "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://freepngimg.com/thumb/pizza/4-pizza-png-image.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
       "name": "Vegan Delight",
       "price": "21.95",
       "menu_description": "Vegan mozzarella, roasted veggies, and pesto sauce",
