@@ -1,0 +1,254 @@
+{
+{
+      "id": 10,
+      "name": "Tuesday Value Pizza",
+      "price": "10.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://i.pinimg.com/originals/dc/99/84/dc998472dd105e3e3ec5a048f09efe6b.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "name": "Wednesday Value Pizza",
+      "price": "11.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://img.freepik.com/premium-photo/delicious-classic-italian-pizza-with-mozzarella_79762-2653.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "name": "Thursday Value Pizza",
+      "price": "12.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://png.pngtree.com/png-clipart/20230928/original/pngtree-pizza-with-mozzarella-cheese-tomato-kiwi-and-olives-ai-generated-png-image_13164699.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "name": "Friday Value Pizza",
+      "price": "13.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://i.pinimg.com/originals/dc/99/84/dc998472dd105e3e3ec5a048f09efe6b.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "name": "Saturday Value Pizza",
+      "price": "14.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://img.freepik.com/premium-psd/classic-italian-margherita-pizza-png_68880-16647.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "name": "Sunday Value Pizza",
+      "price": "15.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://image.similarpng.com/very-thumbnail/2022/01/Italian-pizza-on-transparent-background-PNG.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "name": "Monday Value Pizza",
+      "price": "13.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://i.pinimg.com/1200x/b8/ba/c5/b8bac59660b46491f02923c95f547c3c.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "name": "Tuesday Value Pizza",
+      "price": "17.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://clipart-library.com/images_k/transparent-pizza/transparent-pizza-15.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "name": "Wednesday Value Pizza",
+      "price": "18.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://img.favpng.com/14/25/1/william-john-s-pizza-vegetarian-cuisine-sicilian-pizza-menu-png-favpng-amceMepfqt4hT3uv2KAPSqp7a.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "name": "Thursday Value Pizza",
+      "price": "19.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://image.pngaaa.com/215/521215-middle.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "name": "Friday Value Pizza",
+      "price": "20.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://image.similarpng.com/very-thumbnail/2020/05/vegetarian-pizza-png.png"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "name": "Saturday Value Pizza",
+      "price": "21.99",
+      "menu_description": "Our daily value pizza, featuring a delicious blend of toppings",
+      "classifications": {
+        "vegetarian": false
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://img.freepik.com/premium-psd/vegetarian-pizza-png-with-transparent-background_484256-2943.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+          }
+        ]
+      }
+    }
+}
